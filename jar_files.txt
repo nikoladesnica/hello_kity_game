@@ -1,0 +1,10 @@
+Press Ctrl+Shift+P (or Cmd+Shift+P on Mac)
+Type "Preferences: Open Workspace Settings (JSON)"
+This will open your workspace settings.json file
+Add the following:
+
+{
+    "java.project.referencedLibraries": [
+        "C:/Users/nikol/OneDrive/Desktop/Hello Kitty Game Files/jar_files/**/*.jar"
+    ]
+}
